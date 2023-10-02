@@ -1,0 +1,7 @@
+D:\My\FSFproj\spm\bin\Debug\spm.exe.config
+D:\My\FSFproj\spm\bin\Debug\spm.exe
+D:\My\FSFproj\spm\bin\Debug\spm.pdb
+D:\My\FSFproj\spm\obj\Debug\spm.csproj.AssemblyReference.cache
+D:\My\FSFproj\spm\obj\Debug\spm.csproj.CoreCompileInputs.cache
+D:\My\FSFproj\spm\obj\Debug\spm.exe
+D:\My\FSFproj\spm\obj\Debug\spm.pdb
